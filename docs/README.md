@@ -1,6 +1,7 @@
 # loop_engineer_copilot_public
 
 ※利用時はまずCopilot Agentで適用依頼が必要
+※必要に応じて開発リポジトリに「開発ルール用ファイル作成」を依頼
 
 GitHub Copilot 向けの開発ルールと配置の道具。loop_engineer_copilot（https://github.com/ume5555/loop_engineer_copilot）の変種で、
 **作業対象のリポジトリにルール由来のファイルを入れない**（公開リポジトリで使う前提）。Copilot 専用で、ほかのエージェントアプリは使わない前提。
